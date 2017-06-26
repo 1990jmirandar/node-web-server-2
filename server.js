@@ -24,3 +24,5 @@ app.get('/about',(req,res)=>{
 app.listen(port,() =>{
   console.log('puerto',port);
 });
+
+//Esto sera un ejemplo de prueba para craken
